@@ -1,0 +1,195 @@
+{
+    "frames": {
+        "arrow-sheet0.png": {
+            "frame": {
+                "h": 15,
+                "idx": 0,
+                "w": 150,
+                "x": 69,
+                "y": 377
+            },
+            "sourceSize": {
+                "h": 17,
+                "w": 152
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "arrow.png": {
+            "frame": {
+                "h": 15,
+                "idx": 0,
+                "w": 150,
+                "x": 69,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 17,
+                "w": 152
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "ball_green.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 64,
+                "x": 0,
+                "y": 312
+            },
+            "sourceSize": {
+                "h": 80,
+                "w": 80
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "ball_red.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 64,
+                "x": 0,
+                "y": 445
+            },
+            "sourceSize": {
+                "h": 80,
+                "w": 80
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "ball_yellow.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 64,
+                "x": 65,
+                "y": 312
+            },
+            "sourceSize": {
+                "h": 80,
+                "w": 80
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "bar.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 64,
+                "x": 69,
+                "y": 409
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 64
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "blank.png": {
+            "frame": {
+                "h": 10,
+                "idx": 0,
+                "w": 10,
+                "x": 130,
+                "y": 312
+            },
+            "sourceSize": {
+                "h": 10,
+                "w": 10
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bow-sheet0.png": {
+            "frame": {
+                "h": 311,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 320,
+                "w": 107
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 5
+            }
+        },
+        "bow.png": {
+            "frame": {
+                "h": 311,
+                "idx": 0,
+                "w": 101,
+                "x": 102,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 320,
+                "w": 107
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 5
+            }
+        },
+        "gold.png": {
+            "frame": {
+                "h": 57,
+                "idx": 0,
+                "w": 57,
+                "x": 65,
+                "y": 445
+            },
+            "sourceSize": {
+                "h": 64,
+                "w": 64
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        "heart.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 68,
+                "x": 0,
+                "y": 377
+            },
+            "sourceSize": {
+                "h": 80,
+                "w": 80
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        }
+    },
+    "meta": {
+        "image": "img.png",
+        "prefix": "laya/assets/img/"
+    }
+}
